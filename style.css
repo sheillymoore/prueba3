@@ -1,0 +1,33 @@
+h1 {color:rgb(128,77,0);}
+a {color:rgba(0,0,0);
+  margin-left:60px;
+  margin-right:50px;
+  font-size:25px;
+  text-decoration:none;
+  
+}
+#navbar {
+  background-color:orange;
+  width:130%;
+  height:50px;
+
+}
+
+body {
+  background-color:rgb(255,194,102);
+}
+
+h1 {font-family: 'Whisper', cursive;
+  font-size:60px;
+  letter-spacing:5px;
+}
+
+p {
+  text-indent:50px;
+  font-size:17px;
+  line-height:1.5;
+}
+
+h3 {
+  font-size:30px;
+}
